@@ -1,6 +1,3 @@
-
-//Ler 2 valores fracionários e perguntar qual a operação aritmética o usuário que fazer com eles. Usar switch..case. Informar o resultado da operação.
-//Questão 2: Informar todos os números de 1000 a 1999 que quando divididos por 11 obtemos resto = 5;
 import java.util.Scanner;
 
 public class Main {
